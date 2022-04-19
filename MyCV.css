@@ -1,0 +1,104 @@
+h2{
+    margin: 400px;
+    text-align: center;
+    margin-bottom: 15px;
+    font-family: 'Cabin', sans-serif;
+font-family: 'Freehand', cursive;
+    font-size: 40px;
+}
+body{
+    background-color: aqua;
+}
+p{
+    text-align: center;
+    margin-left: 15px;
+    font-size: 30px;
+    font-family: 'Cabin', sans-serif;
+font-family: 'El Messiri', sans-serif;
+font-family: 'Freehand', cursive;
+}
+.Mountain{
+        margin-left: 605px;
+        position: relative;
+        bottom: 370px;
+}
+.cloud{
+    position: relative;
+    bottom: 695px;
+    left: 780px;
+}
+.cloud1{
+    position: relative;
+    bottom: 100px;
+    left: 200px;
+}
+.skills{
+    position: relative;
+    bottom: 180px;
+    left: 100px;
+}
+.skills img{
+    border-radius: 200px;
+}
+.head{
+    font-family: 'Cabin', sans-serif;
+font-family: 'Freehand', cursive;
+font-size: 30px;
+position: relative;
+left: 600px;
+top: 300px;
+}
+.skills li{
+    position: relative;
+    left: 500px;
+    top: 300px;
+    font-size: 40px;
+    line-height: 2;
+    font-family: 'Cabin', sans-serif;
+font-family: 'El Messiri', sans-serif;
+font-family: 'Freehand', cursive;
+font-family: 'Updock', cursive;
+}
+.container{
+    position: relative;
+    bottom: 600px;
+}
+.cont{
+    position: relative;
+    bottom: 180px;
+}
+.cont1{
+    position: relative;
+    bottom: 1150px;
+}
+.hobby li{
+    position: relative;
+    top: 450px;
+    left: 530px;
+    font-family: 'Cabin', sans-serif;
+    font-family: 'El Messiri', sans-serif;
+    font-family: 'Freehand', cursive;
+    font-family: 'Updock', cursive;
+    font-size: 40px;
+    line-height: 2;
+    }
+
+.hobby img{
+    position: relative;
+    border-radius: 400px;
+    left: 50px;
+}
+.head1{
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Freehand', cursive;
+    font-size: 30px;
+    position: relative;
+    top: 400px;
+    left: 500px;
+
+}
+.My{
+    position: relative;
+    top: 300px;
+    left: 400px;
+}
